@@ -1,0 +1,33 @@
+Hello Everyone This is My Team Project Student Management System(FLYHIGH).
+
+
+For Project Explanation "Extract" The "full_video_mini_Project" file and just go through the project. 
+
+
+To access the project you just need to extract the:
+	
+	Mini Project SMS folder
+
+Then You need to make sure that you have installed the latest version of django and Python in your sytem for successfully running the project on your system.
+
+Then after that:
+
+	type "cd SMS" on terminal.
+
+Then:
+
+	Type "python manage.py runserver" on the terminal and the project is good to go.
+
+For Creating a new superuser, as we have not provided the admin login credentials.
+
+first type:
+
+	cd..
+
+Then:
+
+	"django-admin createsuperuser"
+
+Then:
+
+	fill out all the required details and the superuser will be created successfully then use the above code to access the project.
